@@ -39,3 +39,11 @@ node_modules
 ```
 .sass-cache
 ```
+
+## Incluya en su repositorio una regla de cómo ignorar un archivo ignorado.txt
+
+* Debe existir el archivo llamado ignorado.txt
+
+* Crear un archivo llamado .gitignore (el archivo se crea así, comenzando por un punto, no debe ir nada delante del punto).
+
+* Escribir en __.gitignore__ "ignorado.txt". Este archivo será ignorado completamente sin importar su contenido.
