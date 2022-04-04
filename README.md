@@ -47,3 +47,10 @@ node_modules
 * Crear un archivo llamado .gitignore (el archivo se crea así, comenzando por un punto, no debe ir nada delante del punto).
 
 * Escribir en __.gitignore__ "ignorado.txt". Este archivo será ignorado completamente sin importar su contenido.
+
+
+# Punto 3 TP1
+
+## c) Revise los archivos subidos en su repositorio de github. ¿Qué archivos ve? ¿Cuál cree que no hace falta que esté?
+
+Veo todos los archivos creados desde el inicio del TP. Creo que no hace falta el archivo.txt con mi nombre.
