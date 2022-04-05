@@ -54,3 +54,13 @@ node_modules
 ## c) Revise los archivos subidos en su repositorio de github. ¿Qué archivos ve? ¿Cuál cree que no hace falta que esté?
 
 Veo todos los archivos creados desde el inicio del TP. Creo que no hace falta el archivo.txt con mi nombre.
+
+## Nota. Si resolvió correctamente los puntos g) y h) notará que el resultado es el mismo. ¿A qué se debe?
+
+Se debe a que un puntero apunta a una dirección de memoria. En este caso a la dirección de la variable creada.
+
+Entonces la dirección almacenada en el puntero es la misma que la direccion de la variable (ya que está siendo apuntada por el puntero).
+
+## ¿Qué obtiene en el punto i)? ¿Es igual a los anteriores? ¿Por qué?
+
+En el punto i obtengo el mismo número de los puntos anteriores, solo difiere en el ultimo valor, que en vez de un 8, tengo un 0.
